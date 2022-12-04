@@ -251,3 +251,8 @@ rr8---sn-8pxuuxa-i5oes.gvt1.com
 rr5---sn-8pxuuxa-i5oed.gvt1.com
 rr3---sn-8pxuuxa-i5oek.gvt1.com
 sf16-short-sg.bytedapm.com
+rr4---sn-8pxuuxa-i5oez.googlevideo.com	
+rr1---sn-8pxuuxa-i5o6k.googlevideo.com	
+rr2---sn-8pxuuxa-i5ozs.googlevideo.com
+yt3.ggpht.com	
+youtubei.googleapis.com

@@ -36,3 +36,13 @@ play.wetv.vip
 zenvideo.wetv.vip
 hkm.film.wetv.vip
 wetv.vip
+ltsaws.wetvinfo.com
+mtrace.wetvinfo.com
+newpic.wetvinfo.com
+play.wetvinfo.com
+puui.wetvinfo.com
+static.wetvinfo.com
+teststatic.wetvinfo.com
+vfiles.wetvinfo.com
+vtrace.wetvinfo.com
+wujicdn.wetvinfo.com

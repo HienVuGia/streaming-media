@@ -46,3 +46,4 @@ teststatic.wetvinfo.com
 vfiles.wetvinfo.com
 vtrace.wetvinfo.com
 wujicdn.wetvinfo.com
+btrace.wetvinfo.com

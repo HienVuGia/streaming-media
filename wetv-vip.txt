@@ -35,3 +35,4 @@ pbaccess.wetv.vip
 play.wetv.vip
 zenvideo.wetv.vip
 hkm.film.wetv.vip
+wetv.vip

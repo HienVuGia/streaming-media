@@ -1,1 +1,3 @@
 movies.hdviet.com
+statistic.hdviet.com
+tv.hdviet.com

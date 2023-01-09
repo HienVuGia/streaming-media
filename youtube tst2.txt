@@ -1,7 +1,0 @@
-youtubei.googleapis.com
-yt3.googleusercontent.com
-redirector.googlevideo.com
-www.youtube.com
-yt3.ggpht.com
-i.ytimg.com
-youtube.com

@@ -6,6 +6,7 @@ youtu.be
 youtube-nocookie.com
 youtube-ui.l.google.com
 youtube.com
+youtube.tv
 youtube.googleapis.com
 youtube.vn
 youtubeeducation.com
